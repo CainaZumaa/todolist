@@ -12,7 +12,7 @@ Interação do Usuário: O usuário pode marcar tarefas como "feitas" ao clicar 
 Estilização Condicional: As tarefas marcadas como concluídas têm sua aparência modificada por meio de uma estilização condicional.
 
 # 🛠️ Funcionalidades
-##Tela Inicial:
+## Tela Inicial:
 
 ![image](https://github.com/user-attachments/assets/22d19a5b-10ea-4771-b092-3c07f2b87617)
 
