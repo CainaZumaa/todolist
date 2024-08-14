@@ -7,8 +7,11 @@ Este projeto foi desenvolvido como resposta a um desafio que consistia em criar 
 ![image](https://github.com/user-attachments/assets/92ce5895-40f1-4d2d-9d52-410a0e8b216d)
 
 Gerenciamento de Estado: Utiliza useState para armazenar e gerenciar a lista de tarefas.
+
 Renderização de Tarefas: As tarefas são renderizadas na tela, exibindo pelo menos o título de cada tarefa.
+
 Interação do Usuário: O usuário pode marcar tarefas como "feitas" ao clicar em uma checkbox.
+
 Estilização Condicional: As tarefas marcadas como concluídas têm sua aparência modificada por meio de uma estilização condicional.
 
 # 🛠️ Funcionalidades
@@ -35,5 +38,7 @@ Estilização Condicional: As tarefas marcadas como concluídas têm sua aparên
 
 # 🛠️ Tecnologias Utilizadas
 React
+
 JavaScript
+
 CSS
