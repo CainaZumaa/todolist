@@ -1,0 +1,88 @@
+body {
+  font-family: 'Segoe UI', 'Arial';
+  background-color: azure;
+  padding: 1vh;
+  color: #000000;
+  background-image: url('img/BYTEBYTEREAL.png');
+  background-size: contain;
+}
+
+.app {
+  max-width: 40%; /* 600px */
+  margin: 0 auto 5vw; /* 300px no final */
+  background-color: #efefef;
+  border-radius: 10px;
+  padding: 2vw 4vw; /* 20px 30px */
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+h2 {
+  margin-bottom: 1vw; /* 10px */
+}
+
+p {
+  margin: 1vw 0; /* 10px 0 */
+}
+
+input {
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #2a81d8;
+  padding: 0.7vw 1vw;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: .3s;
+  color: #efefef;
+  margin-right: 1vw;
+}
+
+button:hover {
+  opacity: 1.2;
+}
+
+.todo-list {
+  margin-bottom: 2vw;
+  padding-bottom: 2vw;
+  border-bottom: 1px solid #555;
+}
+
+.todo {
+  background-color: #FFF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1vw;
+  margin-bottom: 1vw;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+.complete {
+  background-color: rgb(29, 190, 29);
+}
+
+.remove {
+  background-color: #da3a34;
+}
+
+.todo-form {
+  padding-bottom: 1.5rem;
+}
+
+input, select {
+  padding: 0.8vw;
+  margin-bottom: 1.5vw;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+  width: 100%;
+}
