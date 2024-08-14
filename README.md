@@ -1,4 +1,4 @@
-📋 To-Do List App
+# 📋 To-Do List App
 Um aplicativo simples de lista de tarefas que permite aos usuários criar, visualizar e marcar tarefas como concluídas. Desenvolvido com React, utilizando estados para gerenciar a lista de tarefas e estilização condicional para destacar tarefas concluídas.
 
 🚀 Descrição do Desafio
