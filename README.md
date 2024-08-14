@@ -33,16 +33,6 @@ Estilização Condicional: As tarefas marcadas como concluídas têm sua aparên
 
 ![image](https://github.com/user-attachments/assets/3bfaad9a-a96c-43dd-882e-21e0090c508c)
 
-📸 Screenshots
-Criação de Tarefas:
-[Insira aqui a imagem de criar tarefa]
-
-Lista de Tarefas:
-[Insira aqui a imagem da lista de tarefas]
-
-Tarefa Concluída:
-[Insira aqui a imagem de uma tarefa concluída]
-
 # 🛠️ Tecnologias Utilizadas
 React
 JavaScript
